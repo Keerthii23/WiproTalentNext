@@ -1,4 +1,4 @@
-package OOPSInheritance.StringBuilder;
+package OOPSInheritance.OverridingPolymorphism;
 
 public class AlternateCombine {
     public static void main(String[] args) {

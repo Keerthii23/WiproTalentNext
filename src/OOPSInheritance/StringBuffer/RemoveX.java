@@ -1,4 +1,4 @@
-package OOPSInheritance.StringBuilder;
+package OOPSInheritance.StringBuffer;
 
 public class RemoveX {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPSInheritance.StringBuilder;
+package OOPSInheritance.StringBuffer;
 public class Stringconcat {
     public static void main(String[] args) {
         String s1 = args[0];

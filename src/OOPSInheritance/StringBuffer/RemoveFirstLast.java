@@ -1,4 +1,4 @@
-package OOPSInheritance.StringBuilder;
+package OOPSInheritance.StringBuffer;
 
 public class RemoveFirstLast {
     public static void main(String[] args) {

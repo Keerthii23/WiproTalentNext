@@ -1,4 +1,4 @@
-package OOPSInheritance.StringBuilder;
+package OOPSInheritance.StringBuffer;
 public class StringRepeat {
     public static void main(String[] args) {
         String str = args[0];
